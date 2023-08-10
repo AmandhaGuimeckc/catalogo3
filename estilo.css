@@ -1,0 +1,26 @@
+body,html{
+ margin:auto;
+ border:solid 10px darkgoldenrod;
+ background-color: darkkhaki;
+}
+
+#destaque{
+    text-align: center;
+    color:rgb(8, 8, 8);
+}
+
+.item{
+    width: 33%;
+    float: left;
+    paddinh: 8%;
+}
+
+#produtos{
+    text-align: justify;
+    clear:both;
+}
+
+footer{
+    clear:both;
+    text-align: center;
+}
